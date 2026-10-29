@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there! I'm Alfonso or Serperium in another cases.
+I'm a coding amateur that likes to code sometime a few things but primarely a 3D modeler and assets creator (3D above all but 2D is in my range of enjoyement too). I have always wanted to use my models in a personal project. Not an industry professional but would love to create some smalls games to learn more and more. 
+All help is appreciated.
 
-<!--
-**Serperium2003/Serperium2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming-Languages * C#.
+* Game Engines: * Unity.
+* Others that I use more: * Blender, Photoshop, Krita, Substance Painter 3D, ZBrush.
+
+---
+
+### What I'm currently up to
+* Learning to create basics games to demonstrate my abilities.
+* Wanting to work with friends in a Co-worked game.
+* Searching an idea that fill a gap in me.
+
+
+---
+
+### Reach me
+* GitHub: * [Serperium2003](https://github.com/Serperium2003)
+* Email: * alfonso.herascruz@email.com
