@@ -1,5 +1,5 @@
-### Hi there! I'm Alfonso or Serperium in another cases.
-I'm a coding amateur that likes to code sometime a few things but primarely a 3D modeler and assets creator (3D above all but 2D is in my range of enjoyement too). I have always wanted to use my models in a personal project. Not an industry professional but would love to create some smalls games to learn more and more. 
+### Hi there! I'm Alfonso or Serperium in other cases.
+I'm a coding amateur that likes to code sometime a few things but primarily a 3D modeler and assets creator (3D above all but 2D is in my range of enjoyement too). I have always wanted to use my models in a personal project. Not an industry professional but would love to create some small games to learn more and more. 
 All help is appreciated.
 
 ---
@@ -15,7 +15,7 @@ All help is appreciated.
 ### What I'm currently up to
 * Learning to create basics games to demonstrate my abilities.
 * Wanting to work with friends in a Co-worked game.
-* Searching an idea that fill a gap in me.
+* Looking for an idea that inspires me.
 
 
 ---
